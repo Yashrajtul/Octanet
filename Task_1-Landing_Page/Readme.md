@@ -1,3 +1,3 @@
 # Landing Page
 
-Link - https://external.ink?to=landingpage0810.netlify.app/
+Link - <a href="https://landingpage0810.netlify.app/" target="_blank">https://landingpage0810.netlify.app/</a>
