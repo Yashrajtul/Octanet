@@ -83,7 +83,7 @@ main img {
   height: 100%;
 }
 .todo {
-  cursor: url("quill.png") 6 20, auto;
+  cursor: url("quill.png") 6 29, auto;
   display: flex;
   padding: 14px;
 }
